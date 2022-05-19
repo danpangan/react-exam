@@ -1,0 +1,22 @@
+.form-control {
+    padding: 5px;
+    display: flex;
+}
+
+label {
+    font-size: large;
+    width: 12rem;
+    min-width: 10rem;
+    text-align: left;
+    color: #2C4864;
+}
+
+input {
+    outline: none;
+    padding: 0.50rem;
+    border-radius: 4px;
+    font-size: medium;
+    width: 100%;
+    border: 1px solid #E2E2E2;
+    color: #2C4864;
+}
